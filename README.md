@@ -12,4 +12,6 @@ This project implements an AI-powered search engine for academic theses. It allo
 - **PyPDF2**: For extracting text from PDF documents.
 - **Gradio**: For creating a web interface to interact with the search engine.
 
+![image](https://github.com/user-attachments/assets/37e6107f-987e-4345-88b2-6d3ebead4d06)
+
 
